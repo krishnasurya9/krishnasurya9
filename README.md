@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/Je8v1qv.png" width="100%" alt="Futuristic Banner"/>
+
 </div>
 
 <br>
@@ -119,21 +119,6 @@ I enjoy understanding **how AI models think**, designing **agent workflows**, an
 | **Other** | Jupyter, PyCharm, Google Colab |
 
 ---
-
-## ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnasurya9&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasurya9&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/krishnasurya9/krishnasurya9/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 
