@@ -58,7 +58,7 @@ I enjoy understanding **how AI models think**, designing **agent workflows**, an
 
 ## 🧩 Experience
 
-### 💼 **AI Intern — Planto AI** *(2025 – Present)*
+### 💼 **AI Intern — Planto AI** 
 - Built **LLM-powered systems** & **RAG pipelines** for automation. 
 - Experimenting with **multi-agent orchestration** & tool-use strategies.
 - Working on practical applied AI solutions for scalable workflows.
@@ -90,20 +90,13 @@ I enjoy understanding **how AI models think**, designing **agent workflows**, an
 ### 🤖 **Personality-Based Recommendation System**
 - BERT + LSTM hybrid personality model.
 - FastAPI backend + GUI with Big Five psychology mapping.
-- Realtime recommendations (movies, music, books).
+- Realtime recommendations (movies, music, books, games).
 
 ---
 
 ### 💬 **Local LLM Chatbot**
 - Offline inference using LM Studio & Mistral. 
 - Model evaluation pipeline & prompt behavioral analysis.
-
----
-
-### 🖼️ Additional Notable Work
-- Image Edge Detection (Canny/Harris).
-- SQL-based Telco Analytics.
-- Data science EDA systems.
 
 ---
 
